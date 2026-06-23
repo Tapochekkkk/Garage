@@ -1,6 +1,6 @@
 # Task_Garage
 
-Visibility manager
+Garage
 
 Демонстративный проект функции Interact в UE5.6 на Blueprints.
 
